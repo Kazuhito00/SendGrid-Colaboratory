@@ -11,5 +11,10 @@
 <img src="https://user-images.githubusercontent.com/37477845/98436651-73c6a380-2120-11eb-8be7-0097662888be.png" width="75%">
 <img src="https://user-images.githubusercontent.com/37477845/98436660-7d500b80-2120-11eb-8234-95608bd44a7b.png" width="75%">
 
+「弊社にてご登録内容を確認したのち、ログイン情報をお知らせいたします。
+遅くとも翌営業日中にはご連絡いたします。次のご案内までしばらくお待ちください。
+
+※現時点ではログインはできず、SendGridは利用できません。」
+
 
 
