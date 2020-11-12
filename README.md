@@ -4,7 +4,9 @@ SendGridのPython APIでGoogle Colaboratoryからメールを送信するサン�
 # SendGrid登録
 <details open><summary>SendGrid登録</summary><div>
 
+###### 右上の「新規登録」を押下
 <img src="https://user-images.githubusercontent.com/37477845/98436384-3f51e800-211e-11eb-8db2-2f640dbd451f.png" width="75%">
+###### 必要事項を記入
 <img src="https://user-images.githubusercontent.com/37477845/98436451-bb4c3000-211e-11eb-90cc-1598279e83b6.png" width="75%">
 <img src="https://user-images.githubusercontent.com/37477845/98436585-dec3aa80-211f-11eb-9ff9-793295c313df.png" width="75%">
 <img src="https://user-images.githubusercontent.com/37477845/98436593-f56a0180-211f-11eb-88b3-afff7b4c9c52.png" width="75%">
