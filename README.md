@@ -18,4 +18,6 @@
 
 <img src="https://user-images.githubusercontent.com/37477845/98955123-e0d3a200-2541-11eb-9c5c-6a4ee3d5c492.png" width="75%">
 
-
+```
+pip install sendgrid
+```
