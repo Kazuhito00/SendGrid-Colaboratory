@@ -24,3 +24,4 @@ pip install sendgrid
 
 <img src="https://user-images.githubusercontent.com/37477845/98955798-acacb100-2542-11eb-9ebf-aff2ea4ce56f.png" width="75%">
 
+![image](https://user-images.githubusercontent.com/37477845/98957218-488aec80-2544-11eb-8383-0edb0f502b66.png)
