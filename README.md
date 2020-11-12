@@ -2,6 +2,8 @@
 SendGridのPython APIでGoogle Colaboratoryからメールを送信するサンプル。
 
 # SendGrid登録
+[SendGrid](https://sendgrid.kke.co.jp/)に登録し、APIキーを発行する。
+
 <details><summary>SendGrid登録</summary><div><!--<details open><summary>SendGrid登録</summary><div>-->
 
 ###### 右上の「新規登録」を押下
