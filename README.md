@@ -36,3 +36,11 @@ SendGridのPython APIでGoogle Colaboratoryからメールを送信するサン�
 
 </div></details>
 
+# サンプルコード
+[SendGrid_Colaboratory.ipynb](SendGrid_Colaboratory.ipynb)を参照ください。
+
+# Authors
+高橋かずひと(https://twitter.com/KzhtTkhs)
+
+# License 
+SendGrid-Colaboratory is under [MIT license](https://en.wikipedia.org/wiki/MIT_License).
