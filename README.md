@@ -1,4 +1,7 @@
 # SendGrid-Colaboratory
+SendGridのPython APIでGoogle Colaboratoryからメールを送信するサンプル。
+
+<details><summary>SendGrid登録</summary><div>
 
 <img src="https://user-images.githubusercontent.com/37477845/98436384-3f51e800-211e-11eb-8db2-2f640dbd451f.png" width="75%">
 <img src="https://user-images.githubusercontent.com/37477845/98436451-bb4c3000-211e-11eb-90cc-1598279e83b6.png" width="75%">
@@ -17,10 +20,9 @@
 ※現時点ではログインはできず、SendGridは利用できません。」
 
 <img src="https://user-images.githubusercontent.com/37477845/98955123-e0d3a200-2541-11eb-9c5c-6a4ee3d5c492.png" width="75%">
-
-```
-pip install sendgrid
-```
-
 <img src="https://user-images.githubusercontent.com/37477845/98955798-acacb100-2542-11eb-9ebf-aff2ea4ce56f.png" width="75%">
 <img src="https://user-images.githubusercontent.com/37477845/98957218-488aec80-2544-11eb-8383-0edb0f502b66.png" width="75%">
+
+</div></details>
+
+
